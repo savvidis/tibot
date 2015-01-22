@@ -1,0 +1,22 @@
+{
+    "elance": {
+        "description": "This model is for use with Elance job posting",
+        "type": "job",
+        "results": "array",
+        "lang": "jquery",
+        "location": {
+            "index": "div.jobCard",
+            "stats": "div.stats"
+        }
+    },
+    "default": {
+        "description": "This is an empty model.",
+        "type": "data",
+        "results": "array",
+        "lang": "jquery",
+        "location": {
+
+        }
+    }
+}
+

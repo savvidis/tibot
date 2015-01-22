@@ -64,7 +64,7 @@ Job.prototype = {
             };
         } else {
             ops.headers = {
-                'User-Agent': 'Andelbot: A light-weight web crawler based on Jquery. Respects all robots.txt. For additional policy information or to file a complaint visit: http://www.talentincubator.eu'
+                'User-Agent': 'TIbot: A light-weight web crawler based on Jquery. Respects all robots.txt. For additional policy information or to file a complaint visit: http://www.talentincubator.eu'
             };
         }
         console.log(ops.headers);
